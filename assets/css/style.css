@@ -630,7 +630,7 @@ footer{
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 720px){
     .featured-name{
         font-size: 30px;
     }
